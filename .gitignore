@@ -2,5 +2,6 @@
 *.geojson
 *.csv
 *.xlsx
+*.html
 
 /data
